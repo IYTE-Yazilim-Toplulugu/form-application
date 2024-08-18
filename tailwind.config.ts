@@ -15,6 +15,10 @@ const config: Config = {
       },
     },
   },
+  fontFamily: {
+    "ubuntu": 'Ubuntu, sans-serif',
+    "raleway": 'Raleway, sans-serif',
+  },
   plugins: [],
 };
 export default config;
